@@ -4,7 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev" : "echo 'no dev yet'",
+    "build": "echo 'no build yet'",
+    "lint": "echo 'no lint yet'"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
   },
   "keywords": [],
   "author": "",
