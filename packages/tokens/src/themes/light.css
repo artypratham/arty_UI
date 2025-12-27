@@ -1,0 +1,20 @@
+:root {
+    /*Background */
+    --color-bg-default: #ffffff;
+    --color-bg-subtle: #f3f4f6;
+
+    /*Text */
+    --color-text-primary: #1118327;
+    --color-text-inverse: #ffffff;
+
+    /* Brand */
+    --color-brnad-primary: #0fbcf9;
+    --color-brand-hover: #3c40c6;
+
+    /* Spacing */
+    --space-xs: 4px;
+    --space-sm: 8px;
+    --space-md: 16px;
+    --space-lg: 24px;
+    --space-xl: 32px;
+}
